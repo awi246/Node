@@ -21,3 +21,4 @@ const printUSER = (user: User) => {
 }
 
 const x = 'hellosss'
+console.log('HELLOPW')
